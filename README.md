@@ -21,7 +21,8 @@ A Machine Learning-based Movie Recommendation System that suggests personalized 
 - Scikit-learn
 - Matplotlib / Seaborn
 - Streamlit (for UI)
-
+## Demo / Code
+[Movie Recommendation System](https://github.com/raushansharma298744/movie-recommendation-system)
 ---
 
 ## 📂 Dataset
